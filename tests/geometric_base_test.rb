@@ -39,4 +39,9 @@ class TestGeometricBase < Test::Unit::TestCase
     assert_equal(1_000, @base.exponentiation(10, 3))
     assert_equal(67_702.46570070519, @base.exponentiation(5.26, 6.7))
   end
+
+  def test_radiciation
+    assert_equal(2, @base.radiciation(4, 2))
+    assert_equal(2, @base.radiciation(8, 3))
+  end
 end

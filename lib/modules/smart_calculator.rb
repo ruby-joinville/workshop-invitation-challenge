@@ -16,4 +16,8 @@ module SmartCalculator
   def exponentiation(a, b)
     a ** b
   end
+
+  def radiciation(a, b)
+    a ** (1.0/b)
+  end
 end
