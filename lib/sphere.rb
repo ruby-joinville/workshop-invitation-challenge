@@ -1,7 +1,7 @@
 require_relative "geometric_base"
 
 class Sphere < GeometricBase
-  def initialize
+  def initialize(radius)
   end
 
   def area

@@ -9,10 +9,10 @@ class Square < GeometricBase
   end
 
   def area
-    @height * @width
+    multiply(@height, @width)
   end
 
   def perimeter
-    (@height + @width) * 2
+    multiply(sum(@height, @width), 2)
   end
 end

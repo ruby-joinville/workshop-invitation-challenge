@@ -1,4 +1,4 @@
-require_relative "../circle"
+require_relative "../lib/circle"
 
 require "test/unit"
 

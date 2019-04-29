@@ -1,7 +1,7 @@
 require_relative "geometric_base"
 
 class Rectangle < GeometricBase
-  def initialize
+  def initialize(height, width)
   end
 
   def area
