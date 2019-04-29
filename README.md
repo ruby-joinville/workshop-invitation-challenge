@@ -2,7 +2,7 @@
 
 - [Challenge](#challenge)
     - [Description](#description)
-    - [Git/Github](#git/github-instructions)
+    - [Git/Github](#gitgithub-instructions)
     - [Implementing](#implementing-the-challenge)
 
 You need some basic skills to start this challenge: [Dependences](#dependences)
