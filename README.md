@@ -69,7 +69,7 @@ $ ruby test.rb
 
 If you run without your implemantation you see some like:
 
-![Start Status](docs/output_fail.png)
+![Start Status](docs/output_fail.gif)
 
 What we expect to see when running the tests at the end of your implementation is some like:
 
