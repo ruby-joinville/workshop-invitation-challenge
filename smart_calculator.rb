@@ -13,7 +13,7 @@ module SmartCalculator
     a / b
   end
 
-  def squared(a)
-    a ** 2
+  def exponentiation(a, b)
+    a ** b
   end
 end
