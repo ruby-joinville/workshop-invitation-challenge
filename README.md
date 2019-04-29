@@ -67,10 +67,10 @@ To prove you were able to build the requested `methods` correctly in ruby, you n
 $ ruby test.rb
 ```
 
-If you run without your implemantation you see some like:
+If you run this tests before your implementation, you'll see some like:
 
 ![Start Status](docs/output_fail.gif)
 
-What we expect to see when running the tests at the end of your implementation is some like:
+What we expect to see when running the tests after your implementation is something like:
 
 ![Goals](docs/output_done.png)
