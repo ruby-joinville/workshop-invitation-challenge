@@ -1,4 +1,4 @@
-require_relative "../geometric_base"
+require_relative "../lib/geometric_base"
 
 require "test/unit"
 
