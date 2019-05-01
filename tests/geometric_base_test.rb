@@ -10,7 +10,7 @@ class TestGeometricBase < Test::Unit::TestCase
   end
 
   def test_PI_value
-    expected_value = 3.14
+    expected_value = 3.14159265359
 
     assert_equal(expected_value, GeometricBase::PI)
   end

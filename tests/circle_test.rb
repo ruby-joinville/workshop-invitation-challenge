@@ -13,7 +13,7 @@ class TestCircle < Test::Unit::TestCase
 
     @circle.radius = 30
 
-    expected_value = 2827.4333882309998
+    expected_value = 2827.433388231
     assert_equal(expected_value, @circle.area)
   end
 

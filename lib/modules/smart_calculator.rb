@@ -1,5 +1,5 @@
 module SmartCalculator
-  PI = 3.14
+  PI = 3.14159265359
 
   def sum(a, b)
     a + b
