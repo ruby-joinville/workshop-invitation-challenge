@@ -8,22 +8,22 @@ class TestCircle < Test::Unit::TestCase
   end
 
   def test_area
-    expected_value = 81.64
+    expected_value = 530.92915845671
     assert_equal(expected_value, @circle.area)
 
     @circle.radius = 30
 
-    expected_value = 188.4
+    expected_value = 2827.4333882309998
     assert_equal(expected_value, @circle.area)
   end
 
   def test_perimeter
-    expected_value = 1666.2724
+    expected_value = 81.68140899334
     assert_equal(expected_value, @circle.perimeter)
 
     @circle.radius = 40
 
-    expected_value = 15775.360000000002
+    expected_value = 251.3274122872
     assert_equal(expected_value, @circle.perimeter)
   end
 end

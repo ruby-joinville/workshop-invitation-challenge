@@ -2,6 +2,7 @@ require_relative "geometric_base"
 
 class Circle < GeometricBase
   attr_writer :radius
+  PI = 3.14159265359
 
   def initialize(radius)
   end
@@ -10,8 +11,5 @@ class Circle < GeometricBase
   end
 
   def perimeter
-  end
-
-  def diameter
   end
 end
