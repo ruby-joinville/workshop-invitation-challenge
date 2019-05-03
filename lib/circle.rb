@@ -11,7 +11,4 @@ class Circle < GeometricBase
 
   def perimeter
   end
-
-  def diameter
-  end
 end
